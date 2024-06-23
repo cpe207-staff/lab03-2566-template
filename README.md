@@ -1,7 +1,7 @@
-# Lab 02 : My Portfolio
+# Lab 03 : My Portfolio 2.0
 
-ให้นักศึกษาสร้างเว็บไซต์ Portfolio ซึ่งแสดงประวัติคร่าว ๆ ได้แก่ ประวัติส่วนตัว ทักษะที่มีอยู่ ประสบการณ์ งานอดิเรก และช่องทางการติดต่อ โดยให้ใช้ความรู้เรื่อง HTML และ CSS 
+ให้นักศึกษาปรับปรุงเว็บไซต์ Portfolio ซึ่งแสดงซึ่งนักศึกษาได้พัฒนาไว้ใน Lab 02 ให้สวยงามขึ้นโดยอาศัย Bootstrap CSS 
 
-[คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
+[คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EYsZSbXRIOlLuj-pWFQqudsBatIuCH-QHeDndl6pM_sP5A?e=2BWjRF)
 
- <strong>GITHUB PAGE URL : </strong>
+<strong>GITHUB PAGE URL : </strong>
